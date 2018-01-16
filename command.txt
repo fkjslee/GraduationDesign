@@ -4,4 +4,4 @@ git diff 		: compare work dict and stage
 git diff --cached	: compare stage and master
 git status		: 
 git log
-
+git checkout -- file	: cancel the change of work dict
