@@ -1,0 +1,6 @@
+git add "..."		: work dict -> stage
+git commit -m "..."	: stage -> master
+git diff 		: compare work dict and stage
+git diff --cached	: compare stage and master
+git status		: 
+git log
